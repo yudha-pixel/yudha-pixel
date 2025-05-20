@@ -5,7 +5,7 @@ I'm a passionate developer with experience in:
 - 🧠 **Odoo ERP** (Community v13 - v18)
 - 📱 **iOS Swift Development**
 - 🔧 Backend tools: Python, PostgreSQL
-- 🎓 Specialized in **School Management System**
+- 🎓 Specialized in **Odoo Custom Module**
 
 ---
 
@@ -35,5 +35,6 @@ I'm a passionate developer with experience in:
 
 ## 🌍 Portfolio Projects
 
+- **ERPQuick - Coffee Ordering System**: Custom Odoo 18 module to enables customers to order coffee by scanning a QR code at their table
 - **ERPQuick - School Management**: Custom Odoo 18 module for handling students, classes, exams, and scoring
 - **LegaTicket (Odoo 16)**: Online ticketing with poster/event setup and check-in flow

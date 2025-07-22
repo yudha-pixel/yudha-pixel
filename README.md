@@ -22,6 +22,7 @@ I'm a passionate developer with experience in:
 ## 📈 GitHub Stats
 
 ![yudha-pixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yudha-pixel&show_icons=true&theme=github_dark)
+![yudha-pixel's Learning Journey](https://roadmap.sh/card/wide/687f1ad8d8402b4cbde5cda9?variant=dark&roadmaps=full-stack)
 
 ---
 
